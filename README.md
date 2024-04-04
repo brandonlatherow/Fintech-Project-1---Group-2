@@ -57,7 +57,7 @@ pip install yfinance
 ![](Images/SP500_fib.png)
 
 # Challenges
-* There were multiple challenges we had with this project, one of such challenges was expanding the Fibonacci Retracement Lines to future dates. We thought of a way of manually adding dates to the table with "null" values except for the "Date", but do to time constraints we could test the idea or put it into practice. 
+* There were multiple challenges we had with this project, one of such challenges was expanding the Fibonacci Retracement Lines to future dates. We thought of a way of manually adding dates to the table with "null" values except for the "Date", but due to time constraints we couldn't test the idea or put it into practice. 
 * We also tried to make the retracement using hvplot instead of pyplot, but again due to time constraints we were unable to finish the retracement code.
 * Lastly we had difficulty using our code to easily and accurately find trends using smaller sample sizes/data frames.
 ![](Images/Fib_Future.png)
